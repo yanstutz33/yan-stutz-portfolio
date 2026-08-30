@@ -11,6 +11,8 @@ exigir(/class="skip"/i.test(html), "atalho de teclado ausente");
 exigir(!/href="#"/i.test(html), "link vazio encontrado");
 exigir(/rel="canonical"/i.test(html), "URL canônica ausente");
 exigir(/property="og:image"/i.test(html), "imagem social ausente");
+exigir(/og-cover\.png/i.test(html), "imagem social deve usar PNG compatível");
+exigir(/rel="icon"[^>]*favicon\.svg/i.test(html), "favicon ausente");
 exigir(/application\/ld\+json/i.test(html), "dados estruturados ausentes");
 exigir(/https:\/\/www\.behance\.net\/yanstutz1/i.test(html), "Behance ausente");
 exigir(/https:\/\/github\.com\/yanstutz33/i.test(html), "GitHub ausente");

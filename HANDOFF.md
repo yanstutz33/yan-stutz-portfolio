@@ -6,7 +6,8 @@ Atualizado em 28 de agosto de 2026.
 
 - Site estático sem build: `index.html`, `og-cover.svg` e `auditar-portfolio.js`.
 - GitHub Pages publica a branch `main` de `yanstutz33/yan-stutz-portfolio`.
-- Antes desta atualização, produção estava em `c3ec0a1f407943d4cae25eff05454bc2b37fc663`.
+- Renovação principal publicada no commit `4b6627d6b0ca00cf2190d5b857eadd7c89399c93`.
+- Faixa horizontal e travessões removidos no commit `ed092dc71bd0e63ec46ab3e24ea509e94e80bab5`, com GitHub Pages confirmado ao vivo.
 
 ## Decisões permanentes
 
@@ -24,7 +25,6 @@ Atualizado em 28 de agosto de 2026.
 
 ## Próximos passos
 
-- Registrar aqui o novo commit e a confirmação do GitHub Pages.
 - Atualizar métricas sociais apenas com novas capturas e período explícito.
 - Revisar trimestralmente links e status público/privado dos projetos.
-- Se alguma rede não renderizar SVG, exportar `og-cover.svg` para JPG 1200×630.
+- Manter `og-cover.png` em 1200×630 para compatibilidade com prévias sociais.
