@@ -1,6 +1,6 @@
 # Contexto do portfólio Yan Stutz
 
-Atualizado em 28 de agosto de 2026.
+Atualizado em 20 de setembro de 2026.
 
 ## Arquitetura e publicação
 
@@ -19,9 +19,11 @@ Atualizado em 28 de agosto de 2026.
 
 ## Direção visual e UX
 
-- Editorial escuro, grade, tipografia grande e acentos violeta/rosa/ciano/lima.
-- Projetos antes das ferramentas; links externos com foco visível e proteção `noopener noreferrer`.
-- Layout vira uma coluna abaixo de 820 px; CTAs têm pelo menos 48 px.
+- Identidade derivada do Hub Publicação: papel creme, tinta quase preta, roxo de assinatura, bordas de 2 px, sombra dura deslocada e rótulos monoespaçados.
+- O sistema foi transformado em linguagem pessoal de Yan, sem expor telas, rotas, dados ou código privado do Hub.
+- Desktop usa navegação lateral fixa; abaixo de 980 px ela vira cabeçalho compacto e navegação inferior.
+- Há tema claro e escuro persistido apenas no `localStorage`, sem cookies ou rastreamento.
+- Projetos vêm antes das ferramentas; links externos mantêm foco visível e proteção `noopener noreferrer`.
 
 ## Próximos passos
 
