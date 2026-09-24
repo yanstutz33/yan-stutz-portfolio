@@ -8,7 +8,7 @@ Design, conteúdo e tecnologia apresentados por meio de projetos e evidências.
 
 | Case | Conteúdo | Evidência e limite |
 |---|---|---|
-| [Conteúdo e comunidade — @sttuttz](cases/conteudo-organico.md) | Contexto, resultados históricos e leitura crítica | Números publicados no portfólio; Insights originais e decisões por peça ainda pendentes |
+| [Conteúdo e comunidade — @stuttz e @pausapraanime](cases/conteudo-organico.md) | Contexto, resultados históricos e leitura crítica | Números publicados no portfólio; Insights originais e decisões por peça ainda pendentes |
 | [IA e automação — Faceless Content Factory](https://github.com/yanstutz33/faceless-content-factory/blob/docs/cases-recrutador-2026-09-24/docs/portfolio/case-ia.md) | Problema, fluxo, stack, demo e validação | Vídeo local de 12 s, screenshot e 63 testes; IA externa não acionada na demo |
 
 As métricas sociais se referem ao recorte de julho/agosto de 2026 e não devem ser

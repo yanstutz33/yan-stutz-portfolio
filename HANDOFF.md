@@ -33,4 +33,4 @@ Atualizado em 20 de setembro de 2026.
 
 ## Cases para recrutamento — 24/09/2026
 
-README e case de @sttuttz preparados com limites de evidência explícitos. Não atualizar métricas sociais sem fonte primária e período. Case de IA documenta a versão pública auditada; não transferir resultados de outras branches. Alterações propostas em branch separada.
+README e case de @stuttz e @pausapraanime preparados com limites de evidência explícitos. Não atualizar métricas sociais sem fonte primária e período. Case de IA documenta a versão pública auditada; não transferir resultados de outras branches. Alterações propostas em branch separada.
