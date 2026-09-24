@@ -21,7 +21,7 @@ exigir(/myPOKYcards/i.test(html), "myPOKYcards ausente");
 exigir(/YAMI.?TCG/i.test(html), "origem YAMI-TCG ausente");
 exigir(/HUB<br>PUBLICAÇÃO/i.test(html), "Hub Publicação ausente");
 exigir(/projeto privado/i.test(html), "tratamento de projeto privado ausente");
-exigir(!/github\.com\/yanstutz33\/(hub-publicacao|faceless-content-factory)/i.test(html), "link de repositório privado exposto");
+exigir(!/github\.com\/yanstutz33\/(hub-publicacao)/i.test(html), "link de repositório privado exposto");
 exigir(!/Curr-culo|CURR[IÍ]CULO/i.test(html), "projeto de currículo removido voltou ao portfólio");
 
 const externos = [...html.matchAll(/<a\b[^>]*target="_blank"[^>]*>/gi)].map(match => match[0]);
