@@ -39,6 +39,18 @@ Este case abre uma conversa sobre criação com leitura de resultado. No context
 
 Yan também desenvolveu o **Hub de Publicação**, uma ferramenta privada para planejar, montar, revisar e organizar posts para Instagram. O projeto conecta o trabalho criativo a um fluxo operacional de conteúdo, mantendo aprovação humana antes da publicação. Como o repositório é privado, o case não expõe código nem links internos.
 
+![Visão geral da fila editorial no Hub de Publicação](evidencias/hub-visao-geral.jpg)
+
+*Visão geral com estados de agendamento, aprovação e publicação. A captura usa dados fictícios e o modo somente leitura.*
+
+![Calendário editorial do Hub de Publicação](evidencias/hub-calendario.jpg)
+
+*Calendário semanal usado para visualizar a distribuição dos posts do Instagram.*
+
+![Gerador de carrossel do Hub de Publicação](evidencias/hub-gerador.jpg)
+
+*Etapa de geração de carrossel integrada ao fluxo. A publicação permanece sujeita à revisão humana.*
+
 ## Evidências e complementação
 
 - [Perfil @stuttz](https://www.instagram.com/stuttz/)
