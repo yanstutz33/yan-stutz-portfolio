@@ -13,7 +13,7 @@ Atualizado em 20 de setembro de 2026.
 
 - Preservar Yan Stutz, Rio de Janeiro, contatos profissionais, métricas reais do Instagram e seção de IA.
 - myPOKYcards é o destaque e deve ser identificado como evolução do YAMI-TCG. Números documentados: 41.694 cartas, 14 ms e recall top-3 de 99,8%.
-- Hub Publicação e Faceless Content Factory são privados: sem links de repositório.
+- Hub Publicação permanece privado: sem links de repositório. Em 24/09/2026, a listagem autenticada do GitHub confirmou Faceless Content Factory como público; o case pode apontar para seu material público.
 - YAMI.STUDIO aparece somente como estudo de caso; este projeto não edita a loja.
 - Nunca incluir o repositório antigo `Curr-culo`/“Currículo”.
 
@@ -30,3 +30,7 @@ Atualizado em 20 de setembro de 2026.
 - Atualizar métricas sociais apenas com novas capturas e período explícito.
 - Revisar trimestralmente links e status público/privado dos projetos.
 - Manter `og-cover.png` em 1200×630 para compatibilidade com prévias sociais.
+
+## Cases para recrutamento — 24/09/2026
+
+README e case de @sttuttz preparados com limites de evidência explícitos. Não atualizar métricas sociais sem fonte primária e período. Case de IA documenta a versão pública auditada; não transferir resultados de outras branches. Alterações propostas em branch separada.
