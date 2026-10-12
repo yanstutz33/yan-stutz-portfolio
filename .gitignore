@@ -1,0 +1,18 @@
+# DependÃªncias e builds
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# Segredos e configuraÃ§Ã£o local
+.env
+.env.*
+!.env.example
+
+# Logs e lixo de sistema
+*.log
+.DS_Store
+Thumbs.db
